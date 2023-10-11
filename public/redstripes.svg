@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+	<defs>
+		<pattern id="pattern_BgosE" patternUnits="userSpaceOnUse" width="18" height="18" patternTransform="rotate(44)">
+			<line x1="0" y="0" x2="0" y2="18" stroke="#BE1B33" stroke-width="20" />
+		</pattern>
+	</defs>
+	<rect width="100%" height="100%" fill="url(#pattern_BgosE)" :opacity="1" />
+</svg>
